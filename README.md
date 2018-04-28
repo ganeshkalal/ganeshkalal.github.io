@@ -5,13 +5,11 @@ This is my personal website and it contains all the details about me along with 
 # Credits
 
 #### Website
-	This website is made using a fork of andrewbanchich jekyll theme project
-	https://github.com/andrewbanchich/strata-jekyll-theme
+This website is made using [Github Pages](https://pages.github.com/) &
+[Strata Theme](https://github.com/andrewbanchich/strata-jekyll-theme)
 
 #### Images
-	Pixabay provides high quality royalty-free stick images
-	https://pixabay.com
+[Pixabay](https://pixabay.com)
 
 # Licence
-Creative Commons Attribution 3.0 Unported
-https://creativecommons.org/licenses/by/3.0/
+[Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/)
