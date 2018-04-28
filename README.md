@@ -4,11 +4,11 @@ This is my personal website and it contains all the details about me along with 
 
 # Credits
 
-	#### Website
+#### Website
 	This website is made using a fork of andrewbanchich jekyll theme project
 	https://github.com/andrewbanchich/strata-jekyll-theme
 
-	#### Images
+#### Images
 	Pixabay provides high quality royalty-free stick images
 	https://pixabay.com
 
