@@ -2505,9 +2505,10 @@
 		}
 
 		#header .sidebar-nav-item{
+			display: block;
 			line-height: 1.75em;
 			text-decoration: none;
-			outline: none;
+			border-bottom: none;
 		}
 
 		#header .sidebar-nav-item.active{
