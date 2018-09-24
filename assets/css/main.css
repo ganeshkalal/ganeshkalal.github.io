@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Dosis:400,600");
 
 /*
 	Strata by HTML5 UP
@@ -2489,7 +2489,7 @@
 
 		#header h1 {
 			color: #ffffff;
-			font-size: 1.00em;
+			font-size: 1.25em;
 			line-height: 1.75em;
 			margin: 0;
 		}
