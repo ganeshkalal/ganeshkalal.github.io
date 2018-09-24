@@ -2511,7 +2511,7 @@
 
 		#header a{
 			text-decoration: none;
-			outline: none
+			outline: 0
 		}
 
 		#header .sidebar-nav-item.active{
