@@ -2500,6 +2500,19 @@
 			width: 6.25em;
 		}
 
+		#header .sidebar-nav{
+			font-size: 1.50em;
+		}
+
+		#header .sidebar-nav-item{
+			display: block;
+			line-height: 1.75em;
+		}
+
+		#header .sidebar-nav-item active{
+			font-weight: bold;
+		}
+
 /* Footer */
 
 	#footer {
