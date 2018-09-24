@@ -1567,7 +1567,7 @@
 
 	body, input, select, textarea {
 		color: #a2a2a2;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Dosis";
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -1713,7 +1713,6 @@
 
 	section.special, article.special {
 		text-align: center;
-		font-family:"Dosis"
 	}
 
 	header p {
