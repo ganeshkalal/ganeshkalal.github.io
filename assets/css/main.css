@@ -2501,11 +2501,10 @@
 		}
 
 		#header .sidebar-nav{
-			font-size: 1.25em;
+			font-size: 1.10em;
 		}
 
 		#header .sidebar-nav-item{
-			display: block;
 			line-height: 1.75em;
 			text-decoration: none;
 			outline: none;
