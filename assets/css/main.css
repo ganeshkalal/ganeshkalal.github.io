@@ -2508,7 +2508,7 @@
 			display: block;
 			line-height: 1.75em;
 			text-decoration: none;
-			outline: 0;
+			outline: none;
 		}
 
 		#header .sidebar-nav-item.active{
