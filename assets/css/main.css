@@ -2490,7 +2490,7 @@
 
 		#header h1 {
 			color: #ffffff;
-			font-size: 1.25em;
+			font-size: 1.00em;
 			line-height: 1.75em;
 			margin: 0;
 		}
@@ -2501,7 +2501,7 @@
 		}
 
 		#header .sidebar-nav{
-			font-size: 1.50em;
+			font-size: 1.25em;
 		}
 
 		#header .sidebar-nav-item{
@@ -2509,7 +2509,11 @@
 			line-height: 1.75em;
 		}
 
-		#header .sidebar-nav-item active{
+		#header a{
+			text-decoration: none;
+		}
+
+		#header .sidebar-nav-item.active{
 			font-weight: bold;
 		}
 
